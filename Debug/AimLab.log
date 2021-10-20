@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\Abelis\Desktop\VS Projects\AimLab\Game.cpp(63,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Abelis\Desktop\VS Projects\AimLab\Game.cpp(140,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Abelis\Desktop\VS Projects\AimLab\Game.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Abelis\Desktop\VS Projects\AimLab\Game.cpp(161,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Abelis\Desktop\VS Projects\AimLab\Game.cpp(172,22): warning C4018: '<': signed/unsigned mismatch
+  AimLab.vcxproj -> C:\Users\Abelis\Desktop\VS Projects\AimLab\Debug\AimLab.exe
